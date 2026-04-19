@@ -1,0 +1,4 @@
+add_subdirectory(BadHandle)
+add_subdirectory(BufferOverrun)
+add_subdirectory(DoubleFree)
+add_subdirectory(FormatString)

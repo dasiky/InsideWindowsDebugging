@@ -1,0 +1,2 @@
+add_subdirectory(SingleLockDeadlock)
+add_subdirectory(MultiLockDeadlock)

@@ -1,0 +1,3 @@
+add_executable(ch09_NoRefCountingBug main.cpp stdafx.h)
+set_target_properties(ch09_NoRefCountingBug PROPERTIES OUTPUT_NAME "NoRefCountingBug")
+target_link_libraries(ch09_NoRefCountingBug PRIVATE corelib kernel32 advapi32)

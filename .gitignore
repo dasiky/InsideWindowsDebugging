@@ -1,0 +1,43 @@
+# Build directories
+build/
+out/
+x64/
+x86/
+
+# CMake generated files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+CMakeSettings.json
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.sdf
+*.opensdf
+*.vsidx
+*.VC.db
+*.VC.VC.opendb
+bin/
+obj/
+
+# Compiled output
+Debug/
+Release/
+*.obj
+*.o
+*.lib
+*.exp
+*.ilk
+
+# OS files
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates

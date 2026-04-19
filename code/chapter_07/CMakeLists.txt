@@ -1,0 +1,4 @@
+add_subdirectory(BreakOnDllLoad)
+add_subdirectory(BreakOnDllLoadVs)
+add_subdirectory(BreakOnFailure)
+add_subdirectory(MsiCustomAction)

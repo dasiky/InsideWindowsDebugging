@@ -1,0 +1,4 @@
+add_subdirectory(Deadlocks)
+add_subdirectory(DllLifetimeRaceCondition)
+add_subdirectory(ExeGlobalsLifetime)
+add_subdirectory(ThreadCtxLifetime)

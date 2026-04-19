@@ -1,0 +1,2 @@
+add_subdirectory(ExeHeapLeak)
+add_subdirectory(DllHeapLeak)

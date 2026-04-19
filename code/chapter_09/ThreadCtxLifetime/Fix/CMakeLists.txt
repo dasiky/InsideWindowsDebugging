@@ -1,0 +1,3 @@
+add_executable(ch09_CorrectRefCounting main.cpp stdafx.h refcountimpl.h)
+set_target_properties(ch09_CorrectRefCounting PROPERTIES OUTPUT_NAME "CorrectRefCounting")
+target_link_libraries(ch09_CorrectRefCounting PRIVATE corelib kernel32 advapi32)
