@@ -342,7 +342,7 @@ private:
     CRITICAL_SECTION m_cs;
     BOOL m_bInited;
 
-    static const MAX_CAPTURED_STACK_DEPTH = 64;
+    static const int MAX_CAPTURED_STACK_DEPTH = 64;
 };
 
 //

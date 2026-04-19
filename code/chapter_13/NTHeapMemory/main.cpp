@@ -55,9 +55,9 @@ public:
     }
 
 private:
-    static const NUM_ITERATIONS = 10;
-    static const NUM_BUFFERS = 50;
-    static const SIZE_OF_EACH_BUFFER = 1024;
+    static const int NUM_ITERATIONS = 10;
+    static const int NUM_BUFFERS = 50;
+    static const int SIZE_OF_EACH_BUFFER = 1024;
 };
 
 int

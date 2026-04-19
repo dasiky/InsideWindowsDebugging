@@ -31,7 +31,7 @@ public:
 private:
     CAutoPtr<BYTE> m_spFirstBuffer;
     CAutoPtr<BYTE> m_spSecondBuffer;
-    static const BUFFER_SIZE = 1024;
+    static const int BUFFER_SIZE = 1024;
 };
 
 class CMainApp

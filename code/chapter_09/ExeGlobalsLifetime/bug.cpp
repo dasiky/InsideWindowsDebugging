@@ -86,7 +86,7 @@ public:
     }
 
 private:
-    static const NUM_THREADS = 64;
+    static const int NUM_THREADS = 64;
     static CThreadParams g_params;
 };
 

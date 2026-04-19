@@ -108,7 +108,7 @@ public:
     }
 
 private:
-    static const NUM_THREADS = 16;
+    static const int NUM_THREADS = 16;
 };
 
 int
